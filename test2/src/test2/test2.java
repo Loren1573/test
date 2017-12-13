@@ -6,6 +6,7 @@ public class test2 {
     	char ch = 't';
     	
         System.out.println(ch);
+        System.out.println("tt");
 
     }
 }
